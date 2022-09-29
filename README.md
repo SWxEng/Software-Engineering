@@ -1,2 +1,1 @@
-# Software-Engineering
-هندسة برمجيات
+# Software Engineering الهندسة البرمجيات
